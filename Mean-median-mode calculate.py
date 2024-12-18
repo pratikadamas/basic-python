@@ -11,7 +11,7 @@ for i in range(q):
    # list.append(data)
      list.insert(i,data)
 
-
+print("Data points are :-",list)
 
 a,b,c= result =mean_median_mode(list)
 
