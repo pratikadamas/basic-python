@@ -3,15 +3,25 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2c88be83-efca-4dfd-b35e-985a0bfa69b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/membership operator 03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hangman.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Caesar and Cipher text PROJECT 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Caesar and Cipher text PROJECT 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HANGMAN GAME PROJECT-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HANGMAN GAME PROJECT-3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,23 +33,52 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2lTzRwbCeeJCnaJW7H0weyPRZva" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.0 6 Identity operator.executor": "Run",
     "Python.1.executor": "Run",
+    "Python.Add two number using function.executor": "Run",
+    "Python.Arithmatic operator 05.executor": "Run",
+    "Python.Bitwise operator.executor": "Run",
+    "Python.Caesar and Cipher text PROJECT 2.executor": "Run",
+    "Python.For loop in python.executor": "Run",
+    "Python.Global variable 02.executor": "Run",
+    "Python.Global variable.executor": "Run",
+    "Python.HANGMAN GAME PROJECT-3.executor": "Run",
+    "Python.Hello World 01.executor": "Run",
+    "Python.LOVE CALCULATER.executor": "Run",
+    "Python.Lgical operator 04.executor": "Run",
+    "Python.Mean-median-mode calculate.executor": "Run",
+    "Python.String.executor": "Run",
+    "Python._pydev_execfile.executor": "Run",
+    "Python.fstring.executor": "Run",
     "Python.giri.executor": "Run",
+    "Python.hangman.executor": "Run",
     "Python.hello wrold.executor": "Run",
     "Python.main.executor": "Run",
     "Python.membership operator 03.executor": "Run",
+    "Python.return by function.executor": "Run",
+    "Python.string function.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "E:/basic python",
     "node.js.detected.package.eslint": "true",
@@ -52,6 +91,29 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="HANGMAN GAME PROJECT-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="basic python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HANGMAN GAME PROJECT-3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="basic python" />
       <option name="ENV_FILES" value="" />
@@ -75,6 +137,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.HANGMAN GAME PROJECT-3" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -106,7 +173,16 @@
       <workItem from="1731527008970" duration="751000" />
       <workItem from="1731527790475" duration="274000" />
       <workItem from="1734208718790" duration="345000" />
-      <workItem from="1734209078516" duration="515000" />
+      <workItem from="1734209078516" duration="2873000" />
+      <workItem from="1734237699995" duration="2135000" />
+      <workItem from="1734278628899" duration="1000" />
+      <workItem from="1734283927690" duration="3040000" />
+      <workItem from="1734458769157" duration="20000" />
+      <workItem from="1734530572832" duration="1928000" />
+      <workItem from="1734537531378" duration="486000" />
+      <workItem from="1734544684688" duration="4569000" />
+      <workItem from="1734587090491" duration="6106000" />
+      <workItem from="1734615455450" duration="6971000" />
     </task>
     <servers />
   </component>
@@ -121,13 +197,28 @@
           <line>1</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Bitwise operator.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/basic_python$hello_wrold.coverage" NAME="hello wrold Coverage Results" MODIFIED="1734208743052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/basic_python$main.coverage" NAME="main Coverage Results" MODIFIED="1731527866902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/basic_python$1.coverage" NAME="1 Coverage Results" MODIFIED="1725219433624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/basic_python$giri.coverage" NAME="giri Coverage Results" MODIFIED="1731527414500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$Caesar_and_Cipher_text_PROJECT_2.coverage" NAME="Caesar and Cipher text PROJECT 2 Coverage Results" MODIFIED="1734592104655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$LOVE_CALCULATER.coverage" NAME="LOVE CALCULATER Coverage Results" MODIFIED="1734537548666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$Add_two_number_using_function.coverage" NAME="Add two number using function Coverage Results" MODIFIED="1734546666824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$main.coverage" NAME="main Coverage Results" MODIFIED="1734589150858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$Mean_median_mode_calculate.coverage" NAME="Mean-median-mode calculate Coverage Results" MODIFIED="1734548610117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$String.coverage" NAME="String Coverage Results" MODIFIED="1734284883840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$HANGMAN_GAME_PROJECT_3.coverage" NAME="HANGMAN GAME PROJECT-3 Coverage Results" MODIFIED="1734626659847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1734625660750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$Global_variable_02.coverage" NAME="Global variable 02 Coverage Results" MODIFIED="1734549861006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$string_function.coverage" NAME="string function Coverage Results" MODIFIED="1734286947057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$return_by_function.coverage" NAME="return by function Coverage Results" MODIFIED="1734547793691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$_pydev_execfile.coverage" NAME="_pydev_execfile Coverage Results" MODIFIED="1734589825563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/plugins/python/helpers/pydev/_pydev_imps" />
+    <SUITE FILE_PATH="coverage/workspace_xml$fstring.coverage" NAME="fstring Coverage Results" MODIFIED="1734532162579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workspace_xml$Global_variable.coverage" NAME="Global variable Coverage Results" MODIFIED="1734549244327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
