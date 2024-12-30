@@ -8,7 +8,8 @@ except ZeroDivisionError:
    print("Error: Cannot divide by zero.")
 except ValueError:
    print("Error: Invalid input. Please enter valid integers.")
-
+else:
+    print(f"Result of division: {result}")
 
    # ZeroDivisionError, ValueError all are pre defined in the exception handaling
    # if you enter a non-numeric value, a ValueError
