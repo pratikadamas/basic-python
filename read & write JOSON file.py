@@ -9,5 +9,5 @@ final_data=json.loads(data)
 
 
 for a in final_data:
-    
+
     print(a," : ",final_data[a])
