@@ -10,18 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c88be83-efca-4dfd-b35e-985a0bfa69b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/02 pack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04place.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05tinkervariable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06dDigital_clock GUI project 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07Image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BottonGUI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lable frame GUI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0 6 Identity operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/0 6 Identity operator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/03grid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add two number using function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Add two number using function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pratik" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +115,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="HANGMAN GAME PROJECT-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic python" />
       <option name="ENV_FILES" value="" />
@@ -286,7 +275,9 @@
       <workItem from="1735754135179" duration="10996000" />
       <workItem from="1735894132503" duration="98000" />
       <workItem from="1735929172280" duration="2949000" />
-      <workItem from="1735932234420" duration="1012000" />
+      <workItem from="1735932234420" duration="1622000" />
+      <workItem from="1736025449349" duration="12000" />
+      <workItem from="1738063545381" duration="3000" />
     </task>
     <servers />
   </component>
