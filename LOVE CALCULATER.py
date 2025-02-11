@@ -1,6 +1,6 @@
 
 #----------------------LOVE CALCULATER-------------
-
+import flask
 str1=input("Enter your name :",)
 str2=input("Enter your partner name :",)
 
@@ -23,5 +23,4 @@ h=str4.count("e")
 j=e+i+g+h
 
 print(" Perentage of LOVE :", str(f)+str(f),"%")
-
 
