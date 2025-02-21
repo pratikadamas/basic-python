@@ -10,14 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c88be83-efca-4dfd-b35e-985a0bfa69b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/csv_read.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_pandas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/possible fd sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/possible super keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test super key.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/super key.py" beforeDir="false" afterPath="$PROJECT_DIR$/super key.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv_read.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/csv_read.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,81 +55,81 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.0 6 Identity operator.executor": "Run",
-    "Python.02 GUI.executor": "Run",
-    "Python.03grid.executor": "Run",
-    "Python.06dDigital_clock GUI project 1.executor": "Run",
-    "Python.06dDigital_clock GUI.executor": "Run",
-    "Python.07Image.executor": "Run",
-    "Python.08 gui.executor": "Run",
-    "Python.1.executor": "Run",
-    "Python.1gui.executor": "Run",
-    "Python.Access specifier.executor": "Run",
-    "Python.Add two number using function.executor": "Run",
-    "Python.Arithmatic operator 05.executor": "Run",
-    "Python.Bitwise operator.executor": "Run",
-    "Python.BottonGUI.executor": "Run",
-    "Python.Caesar and Cipher text PROJECT 2.executor": "Run",
-    "Python.Dynamic binding.executor": "Run",
-    "Python.Email varification.executor": "Run",
-    "Python.Exception handailing.executor": "Run",
-    "Python.Exponantial backof strategy.executor": "Run",
-    "Python.File handling.executor": "Run",
-    "Python.First non repeated character for a given string.executor": "Run",
-    "Python.For loop in python.executor": "Run",
-    "Python.Global variable 02.executor": "Run",
-    "Python.Global variable.executor": "Run",
-    "Python.HANGMAN GAME PROJECT-3.executor": "Run",
-    "Python.Hello World 01.executor": "Run",
-    "Python.Json in python.executor": "Run",
-    "Python.LOVE CALCULATER.executor": "Run",
-    "Python.Lable frame GUI.executor": "Run",
-    "Python.Lgical operator 04.executor": "Run",
-    "Python.Mean-median-mode calculate.executor": "Run",
-    "Python.Read  contant from a file.executor": "Run",
-    "Python.Read xl file.executor": "Run",
-    "Python.Static method.executor": "Run",
-    "Python.String.executor": "Run",
-    "Python._pydev_execfile.executor": "Run",
-    "Python.constructor & destructor.executor": "Run",
-    "Python.fstring.executor": "Run",
-    "Python.giri.executor": "Run",
-    "Python.hangman.executor": "Run",
-    "Python.hello wrold.executor": "Run",
-    "Python.json file.executor": "Run",
-    "Python.learn_pandas.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.membership operator 03.executor": "Run",
-    "Python.nested list comprehension.executor": "Run",
-    "Python.object & class.executor": "Run",
-    "Python.possible super keys.executor": "Run",
-    "Python.read & write JOSON file.executor": "Run",
-    "Python.return by function.executor": "Run",
-    "Python.scope & closer.executor": "Run",
-    "Python.static methode02.executor": "Run",
-    "Python.string function.executor": "Run",
-    "Python.super key.executor": "Run",
-    "Python.test super key.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/basic python",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.0 6 Identity operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02 GUI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03grid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06dDigital_clock GUI project 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06dDigital_clock GUI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07Image.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08 gui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1gui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Access specifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Add two number using function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Arithmatic operator 05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bitwise operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BottonGUI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Caesar and Cipher text PROJECT 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dynamic binding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Email varification.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exception handailing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exponantial backof strategy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.File handling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.First non repeated character for a given string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.For loop in python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Global variable 02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Global variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HANGMAN GAME PROJECT-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hello World 01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Json in python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LOVE CALCULATER.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lable frame GUI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lgical operator 04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mean-median-mode calculate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Read  contant from a file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Read xl file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Static method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.String.executor&quot;: &quot;Run&quot;,
+    &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.constructor &amp; destructor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.giri.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hangman.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hello wrold.executor&quot;: &quot;Run&quot;,
+    &quot;Python.json file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.learn_pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.membership operator 03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nested list comprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.object &amp; class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.possible super keys.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read &amp; write JOSON file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.return by function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scope &amp; closer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.static methode02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.super key.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test super key.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/basic python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Lable frame GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic python" />
@@ -368,7 +362,8 @@
       <workItem from="1739902760949" duration="669000" />
       <workItem from="1739959455545" duration="2657000" />
       <workItem from="1740045276024" duration="3212000" />
-      <workItem from="1740064553586" duration="8756000" />
+      <workItem from="1740064553586" duration="9029000" />
+      <workItem from="1740148873838" duration="6572000" />
     </task>
     <servers />
   </component>
