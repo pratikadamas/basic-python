@@ -38,7 +38,6 @@ import pandas as pd
 #
 # result = df[df["AA"]>2]
 # print(result)
-import pandas as pd
-csv_file = pd.read_csv(r"C:\Users\Pratik Giri\OneDrive\Desktop\climate-change.csv")
+
 
 
