@@ -1,6 +1,5 @@
 from itertools import combinations
 
-#the power_set function calculate total power set of all attribute present in the given relation
 def power_set(input_set):
 
     length = len(input_set)+1
@@ -76,20 +75,6 @@ print(" 1 st type ",type(CK_set_list[0]))
 
 super_key=0
 
-# for i in range(len(power_set_list)):
-#     print(power_set_list[i])
-#     pratik = power_set_list[i]
-#     # intersection_set=prime_attribute_set & pratik
-#     intersection_set=prime_attribute_set.intersection(pratik)
-#     print(intersection_set)
-#
-#     if intersection_set==set():
-#         continue
-#
-#     for j in range(len(CK_set_list)):
-#         if intersection_set.issubset(CK_set_list[j]):
-#             print(power_set_list[i])
-#             super_key+=1
 
 super_key_list=[]
 
