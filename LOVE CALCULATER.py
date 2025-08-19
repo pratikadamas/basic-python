@@ -22,5 +22,5 @@ h=str4.count("e")
 
 j=e+i+g+h
 
-print(" Perentage of LOVE :", str(f)+str(f),"%")
+print(" Perentage of LOVE :", str(f)+str(j),"%")
 
