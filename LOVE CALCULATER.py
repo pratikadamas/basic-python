@@ -1,6 +1,5 @@
 
-#----------------------LOVE CALCULATER-------------
-import flask
+#----------------------LOVE CALCULATER------------
 str1=input("Enter your name :",)
 str2=input("Enter your partner name :",)
 
