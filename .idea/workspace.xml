@@ -10,9 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c88be83-efca-4dfd-b35e-985a0bfa69b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/h1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LOVE CALCULATER.py" beforeDir="false" afterPath="$PROJECT_DIR$/LOVE CALCULATER.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
       <option value="16" />
       <option value="200" />
     </hideBySeverity>
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -74,6 +72,7 @@
   &quot;keyToString&quot;: {
     &quot;Python.0 6 Identity operator.executor&quot;: &quot;Run&quot;,
     &quot;Python.02 GUI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02 pack.executor&quot;: &quot;Run&quot;,
     &quot;Python.03grid.executor&quot;: &quot;Run&quot;,
     &quot;Python.04place.executor&quot;: &quot;Run&quot;,
     &quot;Python.06dDigital_clock GUI project 1.executor&quot;: &quot;Run&quot;,
@@ -88,6 +87,7 @@
     &quot;Python.Bitwise operator.executor&quot;: &quot;Run&quot;,
     &quot;Python.BottonGUI.executor&quot;: &quot;Run&quot;,
     &quot;Python.Caesar and Cipher text PROJECT 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Counter.executor&quot;: &quot;Run&quot;,
     &quot;Python.Dynamic binding.executor&quot;: &quot;Run&quot;,
     &quot;Python.Email varification.executor&quot;: &quot;Run&quot;,
     &quot;Python.Exception handailing.executor&quot;: &quot;Run&quot;,
@@ -109,29 +109,38 @@
     &quot;Python.Read xl file.executor&quot;: &quot;Run&quot;,
     &quot;Python.Static method.executor&quot;: &quot;Run&quot;,
     &quot;Python.String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Subset Sum (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Subset Sum.executor&quot;: &quot;Run&quot;,
     &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
     &quot;Python.attendece.executor&quot;: &quot;Run&quot;,
+    &quot;Python.combination.executor&quot;: &quot;Run&quot;,
     &quot;Python.constructor &amp; destructor.executor&quot;: &quot;Run&quot;,
     &quot;Python.enumarate.executor&quot;: &quot;Run&quot;,
     &quot;Python.exception.executor&quot;: &quot;Run&quot;,
     &quot;Python.filehandaling2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.first.executor&quot;: &quot;Run&quot;,
     &quot;Python.frequency count.executor&quot;: &quot;Run&quot;,
     &quot;Python.fstring.executor&quot;: &quot;Run&quot;,
     &quot;Python.giri.executor&quot;: &quot;Run&quot;,
+    &quot;Python.graphploat.executor&quot;: &quot;Run&quot;,
     &quot;Python.hangman.executor&quot;: &quot;Run&quot;,
     &quot;Python.hello wrold.executor&quot;: &quot;Run&quot;,
+    &quot;Python.joinfunction.executor&quot;: &quot;Run&quot;,
     &quot;Python.json file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.juspay.executor&quot;: &quot;Run&quot;,
     &quot;Python.learn_pandas.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.membership operator 03.executor&quot;: &quot;Run&quot;,
     &quot;Python.min finding usind divide &amp; concure.executor&quot;: &quot;Run&quot;,
     &quot;Python.nested list comprehension.executor&quot;: &quot;Run&quot;,
     &quot;Python.object &amp; class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.permutation.executor&quot;: &quot;Run&quot;,
     &quot;Python.possible fd sets.executor&quot;: &quot;Run&quot;,
     &quot;Python.possible super keys.executor&quot;: &quot;Run&quot;,
     &quot;Python.read &amp; write JOSON file.executor&quot;: &quot;Run&quot;,
     &quot;Python.return by function.executor&quot;: &quot;Run&quot;,
     &quot;Python.scope &amp; closer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sec.executor&quot;: &quot;Run&quot;,
     &quot;Python.static function.executor&quot;: &quot;Run&quot;,
     &quot;Python.static methode02.executor&quot;: &quot;Run&quot;,
     &quot;Python.staticvariable in python.executor&quot;: &quot;Run&quot;,
@@ -148,7 +157,8 @@
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/DS-ML-NLP/perceptron-trick-sigmoid.ipynb&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/basic python&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -156,10 +166,20 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mongo&quot;
+    ]
   }
 }</component>
-  <component name="RunManager" selected="Python.LOVE CALCULATER">
-    <configuration name="LOVE CALCULATER" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\basic python" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="LOVE CALCULATOR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,7 +193,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LOVE CALCULATER.py" />
+      <option name="SCRIPT_NAME" value="E:\basic python\LOVE CALCULATOR.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +202,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lable frame GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Subset Sum (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,11 +212,34 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lable frame GUI.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subset Sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Subset Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="basic python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\basic python\Subset Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,29 +263,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="possible super keys" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="basic python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/possible super keys.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,11 +319,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LOVE CALCULATER" />
+        <item itemvalue="Python.Subset Sum (1)" />
+        <item itemvalue="Python.Subset Sum" />
+        <item itemvalue="Python.LOVE CALCULATOR" />
         <item itemvalue="Python.super key" />
         <item itemvalue="Python.test super key" />
-        <item itemvalue="Python.possible super keys" />
-        <item itemvalue="Python.Lable frame GUI" />
       </list>
     </recent_temporary>
   </component>
@@ -433,6 +453,43 @@
       <workItem from="1753541587709" duration="117000" />
       <workItem from="1754895666747" duration="1259000" />
       <workItem from="1755076103476" duration="2186000" />
+      <workItem from="1755680965978" duration="3032000" />
+      <workItem from="1755750768866" duration="2225000" />
+      <workItem from="1755753016144" duration="2577000" />
+      <workItem from="1755805866495" duration="930000" />
+      <workItem from="1756099104477" duration="2280000" />
+      <workItem from="1756199981137" duration="1009000" />
+      <workItem from="1756240372604" duration="639000" />
+      <workItem from="1756286027374" duration="3164000" />
+      <workItem from="1756372113926" duration="806000" />
+      <workItem from="1756441266973" duration="308000" />
+      <workItem from="1759268215444" duration="1211000" />
+      <workItem from="1760070090275" duration="553000" />
+      <workItem from="1761729686258" duration="1629000" />
+      <workItem from="1761886141927" duration="2000000" />
+      <workItem from="1762452629455" duration="4362000" />
+      <workItem from="1762940036577" duration="338000" />
+      <workItem from="1762977646657" duration="1269000" />
+      <workItem from="1762978987785" duration="696000" />
+      <workItem from="1763482140119" duration="122000" />
+      <workItem from="1763544597366" duration="595000" />
+      <workItem from="1763563043311" duration="1790000" />
+      <workItem from="1763613363851" duration="3569000" />
+      <workItem from="1765111548727" duration="255000" />
+      <workItem from="1765651756138" duration="8175000" />
+      <workItem from="1765719864577" duration="6455000" />
+      <workItem from="1765737683317" duration="10781000" />
+      <workItem from="1765790756736" duration="4977000" />
+      <workItem from="1765805948315" duration="9625000" />
+      <workItem from="1768163564438" duration="519000" />
+      <workItem from="1769671928158" duration="561000" />
+      <workItem from="1769682415725" duration="261000" />
+      <workItem from="1769712115176" duration="4365000" />
+      <workItem from="1769716654266" duration="3327000" />
+      <workItem from="1769755603883" duration="3441000" />
+      <workItem from="1769869763781" duration="141000" />
+      <workItem from="1771874947422" duration="1332000" />
+      <workItem from="1771878513569" duration="6000" />
     </task>
     <servers />
   </component>
@@ -453,37 +510,50 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://E:/basic python/scipy_essentials.ipynb</url>
+          <line>3</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pratik_cv_pdf$possible_fd_sets.coverage" NAME="possible fd sets Coverage Results" MODIFIED="1749220095264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pratik_cv_pdf$possible_super_keys.coverage" NAME="possible super keys Coverage Results" MODIFIED="1740335362635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pratik_cv_pdf$learn_pandas.coverage" NAME="learn_pandas Coverage Results" MODIFIED="1740087642957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pratik_cv_pdf$1gui.coverage" NAME="1gui Coverage Results" MODIFIED="1754895712023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pratik_cv_pdf$static_function.coverage" NAME="static function Coverage Results" MODIFIED="1749361470184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$06dDigital_clock_GUI_project_1.coverage" NAME="06dDigital_clock GUI project 1 Coverage Results" MODIFIED="1762979539966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pratik_cv_pdf$text.coverage" NAME="text Coverage Results" MODIFIED="1741807152481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pratik_cv_pdf$06dDigital_clock_GUI_project_1.coverage" NAME="06dDigital_clock GUI project 1 Coverage Results" MODIFIED="1754895737530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pratik_cv_pdf$frequency_count.coverage" NAME="frequency count Coverage Results" MODIFIED="1749110358009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pratik_cv_pdf$04place.coverage" NAME="04place Coverage Results" MODIFIED="1754895786523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pratik_cv_pdf$sum_function.coverage" NAME="sum-function Coverage Results" MODIFIED="1741017107396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$Subset_Sum__1_.coverage" NAME="Subset Sum (1) Coverage Results" MODIFIED="1763564234445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pratik_cv_pdf$filehandaling2.coverage" NAME="filehandaling2 Coverage Results" MODIFIED="1749221103442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$Counter.coverage" NAME="Counter Coverage Results" MODIFIED="1768163830403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pratik_cv_pdf$test_super_key.coverage" NAME="test super key Coverage Results" MODIFIED="1740065047543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pratik_cv_pdf$LOVE_CALCULATER.coverage" NAME="LOVE CALCULATER Coverage Results" MODIFIED="1755076120501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pratik_cv_pdf$exception.coverage" NAME="exception Coverage Results" MODIFIED="1749222225088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pratik_cv_pdf$super_key.coverage" NAME="super key Coverage Results" MODIFIED="1740335600807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pratik_cv_pdf$test.coverage" NAME="test Coverage Results" MODIFIED="1739902165268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pratik_cv_pdf$BottonGUI.coverage" NAME="BottonGUI Coverage Results" MODIFIED="1738849101547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pratik_cv_pdf$attendece.coverage" NAME="attendece Coverage Results" MODIFIED="1741802944668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$BottonGUI.coverage" NAME="BottonGUI Coverage Results" MODIFIED="1762979602366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pratik_cv_pdf$staticvariable_in_python.coverage" NAME="staticvariable in python Coverage Results" MODIFIED="1749361226171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pratik_cv_pdf$enumarate.coverage" NAME="enumarate Coverage Results" MODIFIED="1754895832096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$permutation.coverage" NAME="permutation Coverage Results" MODIFIED="1759268948912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$07Image.coverage" NAME="07Image Coverage Results" MODIFIED="1762979627933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$Lable_frame_GUI.coverage" NAME="Lable frame GUI Coverage Results" MODIFIED="1762979570775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pratik_cv_pdf$OS.coverage" NAME="OS Coverage Results" MODIFIED="1749110054027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pratik_cv_pdf$min_finding_usind_divide___concure.coverage" NAME="min finding usind divide &amp; concure Coverage Results" MODIFIED="1748771512718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pratik_cv_pdf$main.coverage" NAME="main Coverage Results" MODIFIED="1748772610691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$possible_fd_sets.coverage" NAME="possible fd sets Coverage Results" MODIFIED="1749220095264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$Subset_Sum.coverage" NAME="Subset Sum Coverage Results" MODIFIED="1769712202890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$1gui.coverage" NAME="1gui Coverage Results" MODIFIED="1754895712023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$static_function.coverage" NAME="static function Coverage Results" MODIFIED="1749361470184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$graphploat.coverage" NAME="graphploat Coverage Results" MODIFIED="1760070533638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$joinfunction.coverage" NAME="joinfunction Coverage Results" MODIFIED="1769715208812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$sum_function.coverage" NAME="sum-function Coverage Results" MODIFIED="1741017107396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$first.coverage" NAME="first Coverage Results" MODIFIED="1763614304515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$juspay.coverage" NAME="juspay Coverage Results" MODIFIED="1769716284910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$combination.coverage" NAME="Subset Sum Coverage Results" MODIFIED="1762456428486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$sec.coverage" NAME="sec Coverage Results" MODIFIED="1763615856581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$test.coverage" NAME="test Coverage Results" MODIFIED="1739902165268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$attendece.coverage" NAME="attendece Coverage Results" MODIFIED="1741802944668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$02_pack.coverage" NAME="02 pack Coverage Results" MODIFIED="1762979650873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$enumarate.coverage" NAME="enumarate Coverage Results" MODIFIED="1754895832096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pratik_cv_pdf$main.coverage" NAME="main Coverage Results" MODIFIED="1769720910446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
