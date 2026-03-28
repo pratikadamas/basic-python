@@ -1,4 +1,3 @@
-
 student_roll = set()
 present_stu_roll=set()
 
